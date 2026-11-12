@@ -22,7 +22,7 @@ Stagiaire Data Analyst chez CAVEO (Juillet 2025) — automatisation de dashboard
 `Python` `SQL` `Java` `C` `Power BI` `Docker` `Hadoop` `Spark` `NoSQL` `Machine Learning`
 
 **Langues**
-Arabe (natif) · Français (B2) · Anglais (C1)
+Arabe (natif) · Français (C1) · Anglais (C1)
 
 **Me contacter**
 📧 dhahrihaithem18@gmail.com · 📱 +216 50647485
